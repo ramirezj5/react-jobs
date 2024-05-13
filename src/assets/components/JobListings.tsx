@@ -15,9 +15,7 @@ const JobListings = ({ isHome = false }: { isHome: boolean }) => {
   // useEffect is a hook that enables performing side effects in functional components. It's similar to lifecycle methods in class components like componentDidMount, componentDidUpdate, and componentWillUnmount.
   // takes in a function and dependency array
   useEffect(() => {
-    const apiUrl = isHome
-      ? "http://localhost:8000/jobs?_limit=3"
-      : "http://localhost:8000/jobs";
+    const apiUrl = isHome ? "/api/jobs?_limit=3" : "/api/jobs";
     const fetchJobs = async () => {
       try {
         const res = await fetch(apiUrl);
