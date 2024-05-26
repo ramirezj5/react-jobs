@@ -16,7 +16,12 @@ Recruiters can easily post, edit, and manage job openings, ensuring that positio
    git clone https://github.com/ramirezj5/react-jobs.git
 
 2. Install dependencies
-  ```bash
-  cd react-jobs
-  npm i
+   ```bash
+   cd react-jobs
+   npm i
+
+2. Run development client server and backend server
+   ```bash
+   npm run dev
+   npm run server
 
