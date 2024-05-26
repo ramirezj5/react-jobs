@@ -17,6 +17,6 @@ Recruiters can easily post, edit, and manage job openings, ensuring that positio
 
 2. Install dependencies
   ```bash
-   cd react-jobs
-   npm i
+  cd react-jobs
+  npm i
 
