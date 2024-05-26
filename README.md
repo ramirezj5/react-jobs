@@ -26,6 +26,9 @@ Recruiters can easily post, edit, and manage job openings, ensuring that positio
    npm run server
    
 ## Technologies Used
+- React
+- TypeScript
+- Vite
 
 ## Contributing 
 To contribue to this project 
