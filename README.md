@@ -39,5 +39,5 @@ To contribue to this project
 5. ush to the branch (git push origin feature-branch)
 6. Create a new Pull Request
 
-$$ Contact
+## Contact
 For any inquiries, please contact me at rz.jasmin5@gmail.com
