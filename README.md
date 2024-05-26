@@ -24,4 +24,17 @@ Recruiters can easily post, edit, and manage job openings, ensuring that positio
    ```bash
    npm run dev
    npm run server
+   
+## Technologies Used
 
+## Contributing 
+To contribue to this project 
+1. Fork the repository
+2. Create a new branch (git checkout -b feature-branch)
+3. Make your changes
+4. Commit your changes (git commit -m 'Add some feature')
+5. ush to the branch (git push origin feature-branch)
+6. Create a new Pull Request
+
+$$ Contact
+For any inquiries, please contact me at rz.jasmin5@gmail.com
